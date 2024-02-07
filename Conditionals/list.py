@@ -1,0 +1,10 @@
+players=["kohli","Rohit"]
+print(players)
+print(type(players))
+print(len(players))
+players.append("sachin")
+print(players)
+players.insert(1,"hardik")
+print(players)
+players.extend(["jadeja"])
+print(players)
